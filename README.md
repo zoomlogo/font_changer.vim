@@ -1,6 +1,8 @@
 # Font changer
 This plugin allows you to specify a font list and provides a command to cycle through the font list.
 
+Pairs well with [colorscheme_changer.vim](https://github.com/PyGamer0/colorscheme_changer.vim)
+
 Example
 ```viml
 " Define font list
