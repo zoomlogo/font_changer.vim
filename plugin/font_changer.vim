@@ -5,7 +5,7 @@ if exists('g:loaded_font_changer') || &compatible
 endif
 let g:loaded_font_changer=1
 
-let g:font_changer_current=get(g:, 'font_changer_current', 0)
+let g:font_changer_current=get(g:, 'font_changer_current', 1)
 let g:font_changer_fonts=get(g:, 'font_changer_fonts', ['monospace:h14'])
 
 function! ChangeFontIndex() abort
